@@ -7,3 +7,5 @@ def divide(a,b):
         return -1
     else :
         return a/b
+def multiply(a,b):
+    return a*b
